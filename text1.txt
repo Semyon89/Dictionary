@@ -1,0 +1,4 @@
+1   Salt                     Соль
+2   Apple                    Яблоко
+3   Second                   Второй
+4   Sand                     Песок
